@@ -31,6 +31,7 @@
 		963EFDAC2850199F008B98E7 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 963EFDAB2850199F008B98E7 /* TrailingIconLabelStyle.swift */; };
 		96738B00286252D20000D46B /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96738AFF286252D20000D46B /* ScrumStore.swift */; };
 		9693D5382863468000219117 /* ErrorWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9693D5372863468000219117 /* ErrorWrapper.swift */; };
+		9693D53A2863490300219117 /* ErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9693D5392863490300219117 /* ErrorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -78,6 +79,7 @@
 		963EFDAB2850199F008B98E7 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		96738AFF286252D20000D46B /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 		9693D5372863468000219117 /* ErrorWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorWrapper.swift; sourceTree = "<group>"; };
+		9693D5392863490300219117 /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 				963EFDA928501168008B98E7 /* CardView.swift */,
 				962523C82852A57D00D8D93C /* DetailView.swift */,
 				963849382861FA02009A7E3F /* DetailEditView.swift */,
+				9693D5392863490300219117 /* ErrorView.swift */,
 				9638494428623757009A7E3F /* MeetingFooterView.swift */,
 				9638493E28622B33009A7E3F /* MeetingHeaderView.swift */,
 				963EFD7C28500800008B98E7 /* MeetingView.swift */,
@@ -339,6 +342,7 @@
 				962523C72851910500D8D93C /* ScrumsView.swift in Sources */,
 				963849392861FA02009A7E3F /* DetailEditView.swift in Sources */,
 				963EFD7D28500800008B98E7 /* MeetingView.swift in Sources */,
+				9693D53A2863490300219117 /* ErrorView.swift in Sources */,
 				963EFD7B28500800008B98E7 /* ScrumdingerApp.swift in Sources */,
 				9638493B286208C6009A7E3F /* ThemeView.swift in Sources */,
 				963EFDAA28501168008B98E7 /* CardView.swift in Sources */,
